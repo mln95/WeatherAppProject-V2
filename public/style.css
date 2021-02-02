@@ -1,0 +1,47 @@
+#global {
+  width: 400px;
+  margin: 0 auto;
+  text-align: center;
+  background: linear-gradient(#1b5e89, #123259);
+  border-radius: 10px;
+}
+#code,
+#zip {
+  width: 300px;
+  padding: 10px;
+  border-radius: 2px;
+}
+
+input {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#generate {
+  padding: 10px;
+  border: none;
+  color: #1b5e89;
+  background-color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+textArea {
+  margin-top: 20px;
+  width: 150px;
+  resize: none;
+}
+
+h3 {
+  color: white;
+  margin: 20px 0 0 0;
+}
+
+#date,
+#tempFahrenheit,
+#tempCelsius,
+#content {
+  color: white;
+  padding-bottom: 15px;
+}
